@@ -11,7 +11,7 @@ Pero tiene toda la pinta de ser código.
 
 **Esto sería para texto con negrita** luego a partir de ahí sería todo normal.
 
-Parte de la sintaxis la podemos obtener de aquí: [https://github.com/zhuochun/md-writer]()
+Parte de la sintaxis la podemos obtener de aquí: [https://github.com/zhuochun/md-writer](https://github.com/zhuochun/md-writer)
 
 1. Seria una opción
 2. Seria otra opción
